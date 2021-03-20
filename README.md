@@ -17,7 +17,7 @@ Also available as a docker image at: https://hub.docker.com/repository/docker/ig
 
 ### Usage via Docker:
 ```bash
-docker run -v $(pwd):/usr/src/app hash <filename in $pwd>
+docker run -v $(pwd):/usr/src/app igufi/hash <filename in $pwd>
 ```
 Example:
 ```bash
