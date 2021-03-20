@@ -10,7 +10,9 @@ Runs under most Linux distributions, requires sh-shell.
 
 ## Usage
 Get the md5 hash of a file:
+```bash
 ./hash <filename>
+```
 
 ## Docker
 Also available as a docker image at: https://hub.docker.com/repository/docker/igufi/hash
